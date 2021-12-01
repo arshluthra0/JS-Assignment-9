@@ -1,0 +1,77 @@
+[
+  {
+    "id":"1",
+    "main_chracter":"Jack Ryan ",
+    "duration": "2004-10-10",
+    "genre": "Action",
+    "email": "rcs0411@yahoo.com"
+
+  },
+  {
+      "id":"2",
+      "main_chracter":"Billy and Paddy ",
+      "duration": "2021-10-01",
+      "genre":"Comedy",
+      "email": "billyandpaddy@yahoo.com"
+   
+  },
+  {
+      "id":"3",
+      "main_chracter":"Sujit R. Varma ",
+      "duration": "2021-10-28",
+      "genre":"Romance",
+      "email": "rsujit12@yahoo.com"
+  },
+  {
+      "id":"4",
+      "main_chracter":"Fred C. Dobbs",
+      "duration": "2021-10-27",
+      "genre":"Adventure",
+      "email": "jumblejim@prodigy.net"
+  },
+  {
+      "id":"5",
+      "main_chracter":"Jim McAllister",
+      "duration": "2021-10-25",
+      "genre":"Drama",
+      "email": "falvey@scf.usc.edu"
+  },
+  {
+      "id":"6",
+      "main_chracter":"Bruce Banner",
+      "duration": "2021-10-26",
+      "genre":"Sci-fi",
+      "email": "bruceba@gmail.com"
+  },
+  {
+      "id":"7",
+      "main_chracter":"Sigourney Weaver",
+      "duration": "2021-10-27",
+      "genre":"Adventure",
+      "email": "blazesnakes@gmail.com"
+  },
+  {
+      "id":"8",
+      "main_chracter":"Bridget Jones",
+      "duration": "2021-10-27",
+      "genre":"Comedy",
+      "email": "anujav@excite.com"
+  },
+  {
+      "id":"9",
+      "main_chracter":"Claudio Carvalho",
+      "duration": "2021-10-28",
+      "genre":"Fantasy",
+      "email": "janeiro@rio.com"
+  },
+  {
+    
+      "id":"10",
+      "main_chracter":"Borat Sagdiyev",
+      "duration": "2021-10-29",
+      "genre":"Comedy",
+      "email": "hypersonic91@yahoo.com"
+  }
+   
+  
+]
